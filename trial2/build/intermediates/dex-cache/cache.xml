@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Divya\Documents\trial2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Divya\Documents\trial2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ecdfa2775670f2ed587bb67cebf4bb17c0f8a63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Divya\Documents\trial2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="366ad44e8a0bff8060b817413b7a3d414f229f72">
+        <dex dex="C:\Users\Divya\Documents\trial2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_60a9dfbf1a7d510cc3b8f6591f7146f5ee0a927b\classes.dex" />
+    </item>
+
+</items>
